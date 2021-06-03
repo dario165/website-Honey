@@ -1,2 +1,2 @@
 # website-Honey
-Example of Finance website with Bootstrap4
+Example of Finance website landing page with Html and Bootstrap4
